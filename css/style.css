@@ -843,6 +843,33 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #25d8fc;
 }
 
+/* Terms and Conditions Section
+--------------------------------*/
+#tc {
+  background: #fff;
+  padding: 80px 0;
+}
+
+#tc .tc-container
+
+#tc .tc-content {
+  background: #fff;
+}
+
+#tc .tc-title {
+  color: #333;
+  font-weight: 700;
+  font-size: 28px;
+}
+
+#tc .tc-text {
+  line-height: 26px;
+}
+
+#tc .tc-text:last-child {
+  margin-bottom: 0;
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
