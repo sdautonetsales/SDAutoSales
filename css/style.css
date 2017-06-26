@@ -775,7 +775,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* FAQ Section
 --------------------------------*/
 #FAQ {
-  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../img/services-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../img/FAQ-bg.jpg") fixed center center;
   background-size: cover;
   padding: 80px 0 60px 0;
 }
