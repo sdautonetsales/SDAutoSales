@@ -772,6 +772,56 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 2px;
 }
 
+/* FAQ Section
+--------------------------------*/
+#FAQ {
+  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../img/services-bg.jpg") fixed center center;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#FAQ .service-item {
+  margin-bottom: 20px;
+}
+
+#FAQ .service-icon {
+  float: left;
+  background: #03C4EB;
+  padding: 16px;
+  border-radius: 50%;
+  transition: 0.5s;
+  border: 1px solid #03C4EB;
+}
+
+#fAQ .service-icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#FAQ .service-item:hover .service-icon {
+  background: #fff;
+}
+
+#FAQ .service-item:hover .service-icon i {
+  color: #03C4EB;
+}
+
+#FAQ .service-title {
+  margin-left: 80px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#FAQ .service-title a {
+  color: #111;
+}
+
+#FAQ .service-description {
+  margin-left: 80px;
+  line-height: 24px;
+}
+
 /* Contact Section
 --------------------------------*/
 #contact {
